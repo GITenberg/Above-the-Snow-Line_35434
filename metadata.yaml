@@ -1,0 +1,41 @@
+_repo: Above-the-Snow-Line_35434
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Whymper, Edward
+    birthdate: 1840
+    deathdate: 1911
+    gutenberg_agent_id: '39217'
+    url: http://www.gutenberg.org/2009/agents/39217
+  illustrator:
+    agent_name: Macquoid, Percy
+    deathdate: 1925
+    gutenberg_agent_id: '37045'
+    url: http://www.gutenberg.org/2009/agents/37045
+covers:
+- cover_type: archival
+  image_path: 35434-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Dent, C. T. (Clinton Thomas)
+    alias: Dent, Clinton Thomas
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '37684'
+    url: http://www.gutenberg.org/2009/agents/37684
+    wikipedia: http://en.wikipedia.org/wiki/Clinton_Thomas_Dent
+description: ''
+gutenberg_issued: '2011-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35434'
+  lccn: 05038677
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountaineering'
+- !lcc 'G'
+title: 'Above the Snow Line: Mountaineering Sketches Between 1870 and 1880'
+url: http://www.gutenberg.org/ebooks/35434
